@@ -78,7 +78,7 @@ sections:
     subtitle: Features Section Example
     features:
       - title: Intro to Cardano
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
+        subtitle: Introduction to Cardano playlist on Youtube
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh

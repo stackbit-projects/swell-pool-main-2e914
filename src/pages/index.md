@@ -252,7 +252,7 @@ sections:
         title_align: center
         image: images/517110-exodus-logo.jpg
         image_position: top
-      - title: Hilary Ouse
+      - title: Daedalus
         subtitle: Operations Manager
         title_align: center
         image: images/daedalus-wallet.jpg

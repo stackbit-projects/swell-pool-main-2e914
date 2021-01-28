@@ -168,7 +168,7 @@ sections:
             type: action
         actions_align: center
       - title: Daedalus
-        subtitle: Operations Manager
+        subtitle: Full Wallet
         title_align: center
         image: images/daedalus-wallet.jpg
         image_position: top

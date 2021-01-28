@@ -96,23 +96,6 @@ sections:
           src="https://www.youtube.com/embed/videoseries?list=PLnPTB0CuBOBwnSOV7d25N_opV_Ii3PiGf"
           frameborder="0" allow="autoplay; encrypted-media"
           allowfullscreen></iframe>
-      - title: The Big Title For the Feature
-        subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        image: images/classic/feature-3.png
-        image_alt: Feature 3 placeholder image
-        media_position: right
-        media_width: fifty
     feature_padding_vert: large
     align: center
     background_color: secondary

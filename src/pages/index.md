@@ -218,7 +218,7 @@ sections:
         style: primary
     grid_items:
       - title: Yoroi
-        subtitle: Co-Founder & CEO
+        subtitle: Web Lightwallet
         title_align: center
         image: images/Yoroi.png
         image_position: top

@@ -260,6 +260,7 @@ sections:
     align: center
     background_color: secondary
     enable_cards: true
+    has_border: true
   - type: blog_feed_section
     title: What's New
     subtitle: Blog Feed Section Example

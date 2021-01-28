@@ -232,6 +232,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
+        actions_align: center
       - title: Dianne Ameter
         subtitle: Software Engineer
         title_align: center

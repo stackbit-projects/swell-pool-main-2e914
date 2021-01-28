@@ -239,7 +239,7 @@ sections:
         image: images/og-image.png
         image_position: top
         actions:
-          - label: lorem-ipsum
+          - label: 'Use '
             url: lorem-ipsum
             style: link
             has_icon: false

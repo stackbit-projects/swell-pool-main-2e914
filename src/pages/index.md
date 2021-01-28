@@ -176,7 +176,7 @@ sections:
       Join our Telegram group so we can network and together plan our bright
       futures ahead.
     actions:
-      - label: Learn More
+      - label: Telegram
         url: /features
         style: secondary
     actions_position: right

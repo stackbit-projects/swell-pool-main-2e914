@@ -26,7 +26,7 @@ sections:
     background_image_opacity: 20
   - type: grid_section
     title: Cards Grid Section
-    subtitle: Grid Section Example
+    subtitle: ''
     grid_items:
       - title: High Availability
         title_align: left

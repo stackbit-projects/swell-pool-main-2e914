@@ -39,7 +39,7 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "Telegram",
+                "label": "",
                 "url": "https://t.me/joinchat/Dv0g6pp4470j-iy4",
                 "style": "link",
                 "has_icon": true,

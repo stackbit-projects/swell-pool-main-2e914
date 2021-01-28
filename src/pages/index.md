@@ -170,7 +170,7 @@ sections:
       Join our Telegram group so we can network and together plan our bright
       futures ahead.
     actions:
-      - label: Join our Telegram
+      - label: Join Telegram
         url: 'https://t.me/swellpool'
         style: secondary
     actions_position: right

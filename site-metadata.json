@@ -47,7 +47,7 @@
                 "icon": "github"
             },
             {
-                "label": "Twitter",
+                "label": "",
                 "url": "https://twitter.com/swellpool",
                 "style": "link",
                 "has_icon": true

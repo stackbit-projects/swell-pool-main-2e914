@@ -174,7 +174,7 @@ sections:
         image_position: top
         actions:
           - label: Use Daedalus
-            url: lorem-ipsum
+            url: 'https://daedaluswallet.io'
             style: primary
             has_icon: false
             icon: arrow-right

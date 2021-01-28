@@ -260,10 +260,8 @@ sections:
     grid_gap_horiz: large
   - type: cta_section
     title: Get the latest news!
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+    content: |
+      Stay informed on the latest Cardano News on the IOHK blog.
     actions:
       - label: Button
         url: /pricing

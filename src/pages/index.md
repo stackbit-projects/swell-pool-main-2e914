@@ -188,7 +188,7 @@ sections:
     background_color: none
     enable_cards: true
     has_border: false
-    grid_gap_horiz: large
+    grid_gap_horiz: medium
   - type: features_section
     features:
       - title: >-

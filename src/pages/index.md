@@ -20,7 +20,7 @@ sections:
     media_width: fifty
     align: left
     padding_top: large
-    padding_bottom: large
+    padding_bottom: small
     background_color: secondary
     background_image: images/Bg_Pattern.jpg
     background_image_opacity: 20

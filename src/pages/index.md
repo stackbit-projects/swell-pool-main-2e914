@@ -212,10 +212,7 @@ sections:
   - type: grid_section
     title: Cardano Wallets
     subtitle: ''
-    actions:
-      - label: Join the team
-        url: /style-guide
-        style: primary
+    actions: []
     grid_items:
       - title: Yoroi
         subtitle: Web Light wallet

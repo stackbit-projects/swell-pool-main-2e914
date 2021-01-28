@@ -161,9 +161,7 @@ sections:
     grid_gap_horiz: large
   - type: features_section
     features:
-      - title: >-
-          “Stackbit is fast! Themes are always up to date. It’s easy to use
-          across the organization, and collaboration is easy.”
+      - title: About Your Pool Operator
         subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
         image: images/about-4.jpg
         image_alt: Brandon Guidelines

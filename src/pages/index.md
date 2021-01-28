@@ -22,6 +22,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: secondary
+    background_image: images/Bg_Pattern.jpg
   - type: grid_section
     title: Image Grid
     subtitle: Grid Section Example

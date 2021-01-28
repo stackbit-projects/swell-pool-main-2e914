@@ -247,11 +247,6 @@ sections:
             no_follow: false
             type: action
         actions_align: center
-      - title: Exodus
-        subtitle: Multi-currency
-        title_align: center
-        image: images/517110-exodus-logo.jpg
-        image_position: top
       - title: Daedalus
         subtitle: Operations Manager
         title_align: center

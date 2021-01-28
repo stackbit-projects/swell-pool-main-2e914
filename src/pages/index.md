@@ -136,7 +136,7 @@ sections:
     actions: []
     grid_items:
       - title: Yoroi
-        subtitle: Web Light wallet
+        subtitle: '(Android, iOS, Firefox & Chrome Extensions)'
         title_align: center
         image: images/YoROI Wallet.jpg
         image_position: top

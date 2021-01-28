@@ -184,7 +184,7 @@ sections:
             type: action
         content_align: center
     grid_cols: three
-    align: center
+    align: left
     background_color: none
     enable_cards: true
     has_border: false

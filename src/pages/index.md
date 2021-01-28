@@ -171,7 +171,7 @@ sections:
     feature_padding_vert: small
     background_color: primary
   - type: cta_section
-    title: Contact Us for Support
+    title: Keep in Touch
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh

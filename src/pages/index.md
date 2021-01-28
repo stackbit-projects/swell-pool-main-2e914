@@ -186,7 +186,7 @@ sections:
     align: left
     padding_top: large
     padding_bottom: large
-    background_color: primary
+    background_color: secondary
   - type: cta_section
     title: Get the latest news!
     content: |

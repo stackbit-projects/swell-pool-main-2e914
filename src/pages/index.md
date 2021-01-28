@@ -197,7 +197,7 @@ sections:
           - Lorem ipsum
 
           - dolor sit amet
-        content_align: center
+        content_align: right
         actions:
           - label: lorem-ipsum
             url: lorem-ipsum

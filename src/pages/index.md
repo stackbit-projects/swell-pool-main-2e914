@@ -130,6 +130,54 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: secondary
+  - type: grid_section
+    title: Cardano Wallets
+    subtitle: ''
+    actions: []
+    grid_items:
+      - title: Yoroi
+        subtitle: Web Light wallet
+        title_align: center
+        image: images/YoROI Wallet.jpg
+        image_position: top
+        actions:
+          - label: Use Yoroi
+            url: lorem-ipsum
+            style: primary
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
+        actions_align: center
+      - title: Adalite
+        subtitle: Web Light Wallet
+        title_align: center
+        image: images/og-image.png
+        image_position: top
+        actions:
+          - label: Use Adalite
+            url: lorem-ipsum
+            style: primary
+            has_icon: false
+            icon: arrow-left
+            icon_position: center
+            new_window: false
+            no_follow: false
+            type: action
+        actions_align: center
+      - title: Daedalus
+        subtitle: Operations Manager
+        title_align: center
+        image: images/daedalus-wallet.jpg
+        image_position: top
+    grid_cols: three
+    align: center
+    background_color: secondary
+    enable_cards: true
+    has_border: false
+    grid_gap_horiz: large
   - type: features_section
     features:
       - title: >-
@@ -210,54 +258,6 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-  - type: grid_section
-    title: Cardano Wallets
-    subtitle: ''
-    actions: []
-    grid_items:
-      - title: Yoroi
-        subtitle: Web Light wallet
-        title_align: center
-        image: images/YoROI Wallet.jpg
-        image_position: top
-        actions:
-          - label: Use Yoroi
-            url: lorem-ipsum
-            style: primary
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
-        actions_align: center
-      - title: Adalite
-        subtitle: Web Light Wallet
-        title_align: center
-        image: images/og-image.png
-        image_position: top
-        actions:
-          - label: Use Adalite
-            url: lorem-ipsum
-            style: primary
-            has_icon: false
-            icon: arrow-left
-            icon_position: center
-            new_window: false
-            no_follow: false
-            type: action
-        actions_align: center
-      - title: Daedalus
-        subtitle: Operations Manager
-        title_align: center
-        image: images/daedalus-wallet.jpg
-        image_position: top
-    grid_cols: three
-    align: center
-    background_color: secondary
-    enable_cards: true
-    has_border: false
-    grid_gap_horiz: large
   - type: cta_section
     title: Get the latest news!
     content: |

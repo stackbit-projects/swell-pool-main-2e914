@@ -112,7 +112,7 @@ sections:
         actions:
           - label: Use Daedalus
             url: 'https://daedaluswallet.io'
-            style: secondary
+            style: primary
             has_icon: false
             icon: arrow-right
             icon_position: right

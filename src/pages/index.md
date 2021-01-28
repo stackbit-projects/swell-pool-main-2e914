@@ -177,7 +177,7 @@ sections:
       futures ahead.
     actions:
       - label: Telegram
-        url: /features
+        url: 'https://t.me/swellpool'
         style: secondary
     actions_position: right
     actions_width: fourty

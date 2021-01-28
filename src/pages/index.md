@@ -185,7 +185,7 @@ sections:
       Stay informed on the latest Cardano News on the IOHK blog.
     actions:
       - label: IOHK Blog
-        url: 'http://iohk.io/en/blog/'
+        url: 'https://iohk.io/en/blog/'
         style: primary
     actions_position: bottom
     align: center

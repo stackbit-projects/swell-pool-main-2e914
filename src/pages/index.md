@@ -158,7 +158,7 @@ sections:
         image_position: top
         actions:
           - label: Use Adalite
-            url: lorem-ipsum
+            url: 'https://adalite.io'
             style: primary
             has_icon: false
             icon: arrow-left

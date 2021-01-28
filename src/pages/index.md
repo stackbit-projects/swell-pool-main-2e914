@@ -14,7 +14,7 @@ sections:
       - label: Learn More
         url: /features
         style: secondary
-    image: images/classic/hero.png
+    image: images/PikPng.com_cardano-png_4127617.png
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty

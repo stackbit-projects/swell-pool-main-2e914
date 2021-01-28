@@ -8,7 +8,7 @@ sections:
       Independently operated in USA. Dedicated to offering reliable staking
       services at a low margin.
     actions:
-      - label: Try Free
+      - label: Pool Stats
         url: /pricing
         style: primary
       - label: Learn More

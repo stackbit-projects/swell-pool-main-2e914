@@ -16,7 +16,7 @@ sections:
         style: secondary
     image: images/PikPng.com_cardano-png_4127617.png
     image_alt: Hero section placeholder image
-    media_position: left
+    media_position: right
     media_width: fifty
     align: left
     padding_top: small

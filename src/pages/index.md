@@ -263,7 +263,7 @@ sections:
     content: |
       Stay informed on the latest Cardano News on the IOHK blog.
     actions:
-      - label: Button
+      - label: IOHK Blog
         url: /pricing
         style: primary
     actions_position: bottom

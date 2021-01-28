@@ -75,7 +75,7 @@ sections:
     has_border: false
   - type: features_section
     title: Features Section
-    subtitle: Features Section Example
+    subtitle: ''
     features:
       - title: Intro to Cardano
         subtitle: Introduction to Cardano playlist on Youtube

@@ -69,7 +69,7 @@ sections:
     grid_cols: three
     grid_gap_horiz: small
     grid_gap_vert: small
-    enable_cards: false
+    enable_cards: true
     align: center
     background_color: none
   - type: features_section

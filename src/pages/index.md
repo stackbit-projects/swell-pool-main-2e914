@@ -183,7 +183,7 @@ sections:
             no_follow: false
             type: action
         content_align: center
-        actions_align: right
+        actions_align: center
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left

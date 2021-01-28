@@ -220,7 +220,7 @@ sections:
       - title: Gustav Purpleson
         subtitle: Co-Founder & CEO
         title_align: center
-        image: images/gustav-purpleson.jpg
+        image: images/Yoroi.png
         image_position: top
         actions:
           - label: lorem-ipsum

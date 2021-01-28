@@ -175,7 +175,7 @@ sections:
         image_position: top
         actions:
           - label: Use Yoroi
-            url: lorem-ipsum
+            url: 'https://yoroi-wallet.com'
             style: primary
             has_icon: false
             icon: arrow-left

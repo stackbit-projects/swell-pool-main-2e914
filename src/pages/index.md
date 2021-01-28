@@ -25,7 +25,7 @@ sections:
     background_image: images/Bg_Pattern.jpg
     background_image_opacity: 20
   - type: grid_section
-    title: Cards Grid Section
+    title: ''
     subtitle: ''
     grid_items:
       - title: High Availability

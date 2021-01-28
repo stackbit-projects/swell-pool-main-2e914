@@ -41,7 +41,7 @@
             {
                 "label": "Telegram",
                 "url": "/contact",
-                "style": "secondary"
+                "style": "primary"
             },
             {
                 "label": "Twitter",

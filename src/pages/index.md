@@ -182,6 +182,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
+        content_align: center
     grid_cols: three
     align: center
     background_color: none

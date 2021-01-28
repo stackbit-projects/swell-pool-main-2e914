@@ -223,7 +223,7 @@ sections:
         image: images/Yoroi.png
         image_position: top
         actions:
-          - label: lorem-ipsum
+          - label: Use Yoroi
             url: lorem-ipsum
             style: secondary
             has_icon: false

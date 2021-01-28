@@ -233,7 +233,7 @@ sections:
             no_follow: false
             type: action
         actions_align: center
-      - title: Dianne Ameter
+      - title: Adalite
         subtitle: Software Engineer
         title_align: center
         image: images/og-image.png

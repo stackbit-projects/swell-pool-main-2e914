@@ -254,7 +254,7 @@ sections:
         image_position: top
     grid_cols: three
     align: center
-    background_color: primary
+    background_color: secondary
     enable_cards: true
     has_border: false
     grid_gap_horiz: large

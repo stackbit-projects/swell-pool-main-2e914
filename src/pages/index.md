@@ -162,7 +162,7 @@ sections:
   - type: features_section
     features:
       - title: About Your Pool Operator
-        subtitle: 'Charlie, Sr. Database Administrator'
+        subtitle: ''
         image: images/about-4.jpg
         image_alt: Brandon Guidelines
         media_position: right

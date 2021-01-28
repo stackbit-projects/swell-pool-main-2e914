@@ -79,8 +79,7 @@ sections:
     features:
       - title: Intro to Cardano
         subtitle: Introduction to Cardano playlist on Youtube
-        content: |
-          Take a deep dive into Cardano and its future outlook.
+        content: ''
         actions:
           - label: Learn More
             url: /style-guide

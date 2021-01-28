@@ -168,7 +168,7 @@ sections:
             type: action
         actions_align: center
       - title: Daedalus
-        subtitle: Full Wallet
+        subtitle: Multi-platform Cardano desktop wallet
         title_align: center
         image: images/daedalus-wallet.jpg
         image_position: top

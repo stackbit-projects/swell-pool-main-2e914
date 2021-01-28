@@ -247,7 +247,7 @@ sections:
             no_follow: false
             type: action
         actions_align: center
-      - title: Hugh Saturation
+      - title: Exodus
         subtitle: Developer Advocate
         title_align: center
         image: images/517110-exodus-logo.jpg

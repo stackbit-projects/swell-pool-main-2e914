@@ -172,10 +172,9 @@ sections:
     background_color: primary
   - type: cta_section
     title: Keep in Touch
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+    content: >
+      Join our Telegram group so we can network and together plan our bright
+      futures ahead.
     actions:
       - label: Learn More
         url: /features

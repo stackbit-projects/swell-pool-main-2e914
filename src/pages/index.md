@@ -218,7 +218,7 @@ sections:
       - title: Yoroi
         subtitle: Web Light wallet
         title_align: center
-        image: images/Yoroi.png
+        image: images/YoROI Wallet.jpg
         image_position: top
         actions:
           - label: Use Yoroi

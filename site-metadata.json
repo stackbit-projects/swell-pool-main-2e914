@@ -42,7 +42,7 @@
                 "label": "Telegram",
                 "url": "https://t.me/joinchat/Dv0g6pp4470j-iy4",
                 "style": "link",
-                "has_icon": false,
+                "has_icon": true,
                 "icon_position": "right"
             },
             {

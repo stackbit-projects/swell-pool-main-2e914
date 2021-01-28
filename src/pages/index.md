@@ -246,6 +246,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
+        actions_align: center
       - title: Hugh Saturation
         subtitle: Developer Advocate
         title_align: center

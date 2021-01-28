@@ -248,7 +248,7 @@ sections:
             type: action
         actions_align: center
       - title: Exodus
-        subtitle: Developer Advocate
+        subtitle: Multi-currency
         title_align: center
         image: images/517110-exodus-logo.jpg
         image_position: top

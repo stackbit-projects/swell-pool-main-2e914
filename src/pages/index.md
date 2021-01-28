@@ -187,7 +187,7 @@ sections:
     align: left
     background_color: none
     enable_cards: true
-    has_border: false
+    has_border: true
     grid_gap_horiz: large
   - type: features_section
     features:

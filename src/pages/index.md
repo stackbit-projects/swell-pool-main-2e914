@@ -234,7 +234,7 @@ sections:
             type: action
         actions_align: center
       - title: Adalite
-        subtitle: Light Web Wallet
+        subtitle: Web Light Wallet
         title_align: center
         image: images/og-image.png
         image_position: top

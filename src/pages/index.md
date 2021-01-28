@@ -152,22 +152,6 @@ sections:
             type: action
         content_align: center
         actions_align: center
-      - title: Yoroi
-        subtitle: '(Android, iOS, Firefox & Chrome)'
-        title_align: center
-        image: images/YoROI Wallet.jpg
-        image_position: top
-        actions:
-          - label: Use Yoroi
-            url: lorem-ipsum
-            style: primary
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
-        actions_align: center
       - title: Adalite
         subtitle: (Web Wallet)
         title_align: center
@@ -180,6 +164,22 @@ sections:
             has_icon: false
             icon: arrow-left
             icon_position: center
+            new_window: false
+            no_follow: false
+            type: action
+        actions_align: center
+      - title: Yoroi
+        subtitle: '(Android, iOS, Firefox & Chrome)'
+        title_align: center
+        image: images/YoROI Wallet.jpg
+        image_position: top
+        actions:
+          - label: Use Yoroi
+            url: lorem-ipsum
+            style: primary
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
             new_window: false
             no_follow: false
             type: action

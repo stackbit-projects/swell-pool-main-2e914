@@ -241,7 +241,7 @@ sections:
         actions:
           - label: Use Adalite
             url: lorem-ipsum
-            style: secondary
+            style: link
             has_icon: false
             icon: arrow-left
             icon_position: center

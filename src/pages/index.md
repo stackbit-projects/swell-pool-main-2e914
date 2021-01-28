@@ -183,7 +183,7 @@ sections:
             no_follow: false
             type: action
         content_align: center
-    grid_cols: three
+    grid_cols: two
     align: center
     background_color: none
     enable_cards: true

@@ -234,7 +234,7 @@ sections:
             type: action
         actions_align: center
       - title: Adalite
-        subtitle: Software Engineer
+        subtitle: Light Web Wallet
         title_align: center
         image: images/og-image.png
         image_position: top

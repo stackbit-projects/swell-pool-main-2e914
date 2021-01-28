@@ -4,9 +4,9 @@ sections:
   - type: hero_section
     title: 'SWELL '
     subtitle: A Cardano Stake Pool
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: >
+      Independently operated in USA. Dedicated to offering reliable staking
+      services at a low margin.
     actions:
       - label: Try Free
         url: /pricing

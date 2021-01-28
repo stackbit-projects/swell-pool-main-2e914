@@ -239,7 +239,7 @@ sections:
         image: images/og-image.png
         image_position: top
         actions:
-          - label: 'Use '
+          - label: Use Adalite
             url: lorem-ipsum
             style: link
             has_icon: false

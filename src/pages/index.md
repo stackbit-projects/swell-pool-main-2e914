@@ -218,7 +218,7 @@ sections:
         style: primary
     grid_items:
       - title: Yoroi
-        subtitle: Web Lightwallet
+        subtitle: Web Light wallet
         title_align: center
         image: images/Yoroi.png
         image_position: top

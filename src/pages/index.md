@@ -135,6 +135,23 @@ sections:
     subtitle: ''
     actions: []
     grid_items:
+      - title: Daedalus
+        subtitle: '(Windows, Mac, Linux)'
+        title_align: center
+        image: images/daedalus-wallet.jpg
+        image_position: top
+        actions:
+          - label: Use Daedalus
+            url: 'https://daedaluswallet.io'
+            style: primary
+            has_icon: false
+            icon: arrow-right
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
+        content_align: center
+        actions_align: center
       - title: Yoroi
         subtitle: '(Android, iOS, Firefox & Chrome)'
         title_align: center
@@ -167,23 +184,7 @@ sections:
             no_follow: false
             type: action
         actions_align: center
-      - title: Daedalus
-        subtitle: '(Windows, Mac, Linux)'
-        title_align: center
-        image: images/daedalus-wallet.jpg
-        image_position: top
-        actions:
-          - label: Use Daedalus
-            url: 'https://daedaluswallet.io'
-            style: primary
-            has_icon: false
-            icon: arrow-right
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
-        content_align: center
-        actions_align: center
+      - {}
     grid_cols: three
     align: center
     background_color: none

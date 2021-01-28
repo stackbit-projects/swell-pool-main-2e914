@@ -74,7 +74,7 @@ sections:
     background_color: none
     has_border: false
   - type: features_section
-    title: Features Section
+    title: ''
     subtitle: ''
     features:
       - title: Intro to Cardano

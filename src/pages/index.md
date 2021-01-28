@@ -186,7 +186,7 @@ sections:
     grid_cols: three
     align: center
     background_color: none
-    enable_cards: false
+    enable_cards: true
     has_border: false
     grid_gap_horiz: large
   - type: features_section

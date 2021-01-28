@@ -12,7 +12,7 @@ sections:
         url: 'https://adapools.org'
         style: primary
       - label: Block Explorer
-        url: /features
+        url: 'https://cardanoscan.io'
         style: secondary
     image: images/PikPng.com_cardano-png_4127617.png
     image_alt: Hero section placeholder image

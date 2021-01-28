@@ -278,7 +278,7 @@ sections:
         url: /pricing
         style: primary
     actions_position: bottom
-    align: left
+    align: center
     padding_top: large
     padding_bottom: large
     background_color: secondary

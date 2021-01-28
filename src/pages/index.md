@@ -257,7 +257,7 @@ sections:
         title_align: center
         image: images/daedalus-wallet.jpg
         image_position: top
-    grid_cols: four
+    grid_cols: three
     align: center
     background_color: secondary
     enable_cards: true

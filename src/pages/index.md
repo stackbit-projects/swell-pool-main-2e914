@@ -173,7 +173,7 @@ sections:
         image: images/daedalus-wallet.jpg
         image_position: top
         actions:
-          - label: lorem-ipsum
+          - label: Use Daedalus
             url: lorem-ipsum
             style: primary
             has_icon: false

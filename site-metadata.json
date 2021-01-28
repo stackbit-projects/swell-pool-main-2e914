@@ -39,7 +39,7 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "Join on Telegram",
+                "label": "Telegram",
                 "url": "/contact",
                 "style": "link",
                 "has_icon": false,

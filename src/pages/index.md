@@ -9,7 +9,8 @@ sections:
       services at a low margin.
     actions:
       - label: Pool Stats
-        url: 'https://adapools.org'
+        url: >-
+          https://adapools.org/pool/7ff2b54f311b6774e82cbf780c413e49e37b7501afd30f154918f7ca
         style: primary
       - label: Block Explorer
         url: 'https://cardanoscan.io'

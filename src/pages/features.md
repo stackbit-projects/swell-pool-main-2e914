@@ -24,10 +24,9 @@ sections:
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla, fringilla.
         video_embed_html: >-
-          <iframe width="560" height="315"
-          src="https://www.youtube.com/embed/aS1aPOOMQMk?modestbranding=1"
-          frameborder="0" allow="accelerometer; autoplay; encrypted-media;
-          gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <iframe
+          src="https://rl2.swell-pool.com/d-solo/SWELL/swell-pool?orgId=1&refresh=1m&panelId=134"
+          width="450" height="200" frameborder="0"></iframe>
         media_position: left
         media_width: fifty
       - title: Section Title Three

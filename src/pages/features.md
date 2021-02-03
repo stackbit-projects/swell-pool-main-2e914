@@ -23,7 +23,7 @@ sections:
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla, fringilla.
-        video_embed_html: ' <iframe src="https://rl2.swell-pool.com/d-solo/SWELL/swell-pool?orgId=1&refresh=1m&panelId=134" width="400" height="400" frameborder="0"></iframe>'
+        video_embed_html: ' <iframe src="https://rl2.swell-pool.com/d-solo/SWELL/swell-pool?orgId=1&refresh=1m&panelId=134" width="400" height="380" frameborder="0"></iframe>'
         media_position: left
         media_width: fifty
       - title: Section Title Three

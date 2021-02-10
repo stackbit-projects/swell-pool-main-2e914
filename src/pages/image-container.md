@@ -18,15 +18,6 @@ sections:
         image_alt: Top view of business meeting
         media_position: right
         media_width: fifty
-      - title: Section Title Two
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
-        video_embed_html: ' <iframe src="https://rl2.swell-pool.com/d-solo/CGE/swell-pool?orgId=1&refresh=1m&panelId=132" width="400" height="380" frameborder="0"></iframe>'
-        media_position: left
-        media_width: fifty
       - title: Section Title Three
         subtitle: 'Donec nisl ligula, cursus id molestie vel. '
         content: >-

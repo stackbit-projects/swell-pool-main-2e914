@@ -44,7 +44,7 @@
                 "style": "secondary",
                 "has_icon": true,
                 "icon": "twitter",
-                "icon_position": "right"
+                "icon_position": "left"
             }
         ],
         "has_anncmnt": false,

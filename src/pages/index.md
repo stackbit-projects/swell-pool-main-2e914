@@ -86,6 +86,7 @@ sections:
         media_position: right
         media_width: fifty
         video_embed_html: ''
+        image: images/pleasant-panda.gif
     feature_padding_vert: large
     align: center
     background_color: secondary

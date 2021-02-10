@@ -41,7 +41,7 @@
             {
                 "label": "",
                 "url": "https://twitter.com/swellpool",
-                "style": "secondary",
+                "style": "link",
                 "has_icon": true,
                 "icon": "twitter",
                 "icon_position": "left"

@@ -1,6 +1,6 @@
 {
     "description": "SWELL - A Cardano Stake Pool",
-    "layout": "boxed",
+    "layout": "full-width",
     "style": "minimal",
     "palette": "gray",
     "mode": "light",

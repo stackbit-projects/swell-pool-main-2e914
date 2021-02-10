@@ -79,7 +79,7 @@ sections:
     subtitle: ''
     features:
       - title: How to Stake With Us
-        subtitle: Enjoy passive income with these easy steps
+        subtitle: Enjoy passive income with these easy steps.
         content: ''
         actions: []
         image_alt: Feature 1 placeholder image

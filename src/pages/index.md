@@ -82,7 +82,6 @@ sections:
         subtitle: Introduction to Cardano playlist on Youtube
         content: ''
         actions: []
-        image: images/download.gif
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty

@@ -86,11 +86,7 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty
-        video_embed_html: >-
-          <iframe width="560" height="315"
-          src="https://www.youtube.com/embed/videoseries?list=PLnPTB0CuBOBwnSOV7d25N_opV_Ii3PiGf"
-          frameborder="0" allow="autoplay; encrypted-media"
-          allowfullscreen></iframe>
+        video_embed_html: ''
     feature_padding_vert: large
     align: center
     background_color: secondary

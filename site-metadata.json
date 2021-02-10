@@ -39,7 +39,7 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "",
+                "label": "Contact Us",
                 "url": "https://twitter.com/swellpool",
                 "style": "link",
                 "has_icon": true,

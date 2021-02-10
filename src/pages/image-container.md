@@ -17,7 +17,6 @@ sections:
         image_alt: Top view of business meeting
         media_position: right
         media_width: fifty
-        image: images/StakingGuideGray.gif
       - title: Image Container
         subtitle: 'Donec nisl ligula, cursus id molestie vel.'
         content: >-

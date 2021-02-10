@@ -78,7 +78,7 @@ sections:
     title: ''
     subtitle: ''
     features:
-      - title: Intro to Cardano
+      - title: 'How to '
         subtitle: Introduction to Cardano playlist on Youtube
         content: ''
         actions: []

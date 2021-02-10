@@ -78,7 +78,7 @@ sections:
     title: ''
     subtitle: ''
     features:
-      - title: 'How to Stake '
+      - title: How to Stake With Us
         subtitle: Introduction to Cardano playlist on Youtube
         content: ''
         actions: []

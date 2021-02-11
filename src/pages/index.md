@@ -111,13 +111,13 @@ sections:
           ## Find Our Pool
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Find our pool in the staking or delegation section of your desired
+          wallet:
 
 
-          *   Lorem ipsum
+          *   Using ticker SWELL
 
-          *   dolor sit amet
+          *   Using Name Swell Pool
         content_align: left
         actions: []
         actions_align: left

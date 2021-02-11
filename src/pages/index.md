@@ -57,7 +57,7 @@ sections:
         image_align: center
         image_has_padding: true
       - title: Low Fees
-        title_align: left
+        title_align: center
         content: |
           We take take 0% margin which means more return for you.
         content_align: left

@@ -260,7 +260,7 @@ sections:
       - label: IOHK Blog
         url: 'https://iohk.io/en/blog/'
         style: primary
-    actions_position: top
+    actions_position: bottom
     align: center
     padding_top: large
     padding_bottom: large

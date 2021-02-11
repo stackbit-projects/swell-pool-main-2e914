@@ -124,7 +124,7 @@ sections:
         image_has_padding: false
         type: grid_item
       - title: Step 3
-        subtitle: Delegate
+        subtitle: Delegation
         title_align: left
         content: >
           ## Delegate to Us

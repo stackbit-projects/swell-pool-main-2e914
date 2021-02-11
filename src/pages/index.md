@@ -230,7 +230,11 @@ sections:
         image_alt: Brandon Guidelines
         media_position: right
         media_width: thirty-three
-        content: "With 13 years of IT Infrastructure support experience as well as investments and technical knowledge of cryptocurrencies since 2016, I believe I have acquired a good set of skills to navigate the dawn of the crypto era and help anyone in need along the way.\n\nPlease feel free to contact me with any questions or concerns at:\_<swell-pool@pm.me>\n"
+        content: >
+          With 13 years of IT Infrastructure support experience as well as
+          investments and technical knowledge of cryptocurrencies since 2016, I
+          believe I have acquired a good set of skills to navigate the dawn of
+          the crypto era and help anyone in need along the way.
     feature_padding_vert: small
     background_color: primary
   - type: cta_section

@@ -44,7 +44,7 @@ sections:
         image_has_padding: true
         image_width: thirty-three
       - title: High Security
-        title_align: left
+        title_align: center
         content: >
           We keep abreast and implement the latest blockchain industry
           information security best practices.

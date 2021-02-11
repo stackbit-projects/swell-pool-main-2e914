@@ -117,7 +117,7 @@ sections:
 
           *   Using ticker SWELL
 
-          *   Using Name Swell Pool
+          *   Using name Swell Pool
         content_align: left
         actions: []
         actions_align: left

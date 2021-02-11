@@ -253,7 +253,7 @@ sections:
     padding_bottom: large
     background_color: none
   - type: cta_section
-    title: Get the latest updates!
+    title: Stay Informed
     content: |
       Stay informed on the latest Cardano News on the IOHK blog.
     actions:

@@ -81,17 +81,14 @@ sections:
       - title: Step 1
         subtitle: Wallets
         title_align: left
-        content: >
+        content: |
           ## Choose a Wallet
 
+          Choose the wallet that best suits your platform preferences:
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          *   Lorem ipsum
-
-          *   dolor sit amet
+          *   Adalite (Web Wallet)
+          *   Daedalus (Windows/Mac/Linux)
+          *   Yoroi (iOS/Android/Chrome)
         content_align: left
         actions: []
         actions_align: left

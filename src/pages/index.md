@@ -127,7 +127,7 @@ sections:
         image_has_padding: false
         type: grid_item
       - title: Step 3
-        subtitle: lorem-ipsum
+        subtitle: Delegate
         title_align: left
         content: >-
           ## Lorem ipsum

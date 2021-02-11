@@ -75,7 +75,7 @@ sections:
     align: center
     background_color: none
     has_border: false
-  - title: lorem-ipsum
+  - title: H
     subtitle: lorem-ipsum
     actions: []
     grid_items: []

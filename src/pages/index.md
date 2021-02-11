@@ -30,7 +30,7 @@ sections:
     subtitle: ''
     grid_items:
       - title: High Availability
-        title_align: left
+        title_align: center
         content: >
           Our servers are spread across highly available datacenters in Europe
           ensuring exceptional uptime and minimal loss of service.

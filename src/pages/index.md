@@ -79,7 +79,7 @@ sections:
     actions: []
     grid_items:
       - title: Step 1
-        subtitle: lorem-ipsum
+        subtitle: Wallets
         title_align: left
         content: >-
           ## Lorem ipsum

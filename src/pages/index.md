@@ -79,7 +79,7 @@ sections:
     actions: []
     grid_items:
       - title: Step 1
-        subtitle: Wallets
+        subtitle: Use Wallets
         title_align: left
         content: |
           ## Choose a Wallet

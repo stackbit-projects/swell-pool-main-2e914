@@ -261,7 +261,7 @@ sections:
         url: 'https://iohk.io/en/blog/'
         style: primary
     actions_position: top
-    align: left
+    align: center
     padding_top: large
     padding_bottom: large
     background_color: secondary

@@ -81,13 +81,18 @@ sections:
       - title: Step 1
         subtitle: Use Wallets
         title_align: left
-        content: |
+        content: >
           ## Choose a Wallet
 
-          Choose the wallet that best suits your platform preferences:
+
+          Choose the wallet that best suits your platform preferences and
+          transfer funds:
+
 
           *   Adalite (Web Wallet)
+
           *   Daedalus (Windows/Mac/Linux)
+
           *   Yoroi (iOS/Android/Chrome)
         content_align: left
         actions: []

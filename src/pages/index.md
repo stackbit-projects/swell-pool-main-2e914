@@ -131,17 +131,13 @@ sections:
       - title: Step 3
         subtitle: Delegation
         title_align: left
-        content: >
+        content: |
           ## Delegate to Us
 
+          Once our pool is found, click to delegate and approve the transaction.
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          *   Lorem ipsum
-
-          *   dolor sit amet
+          *   Enjoy ~5% passive staking rewards.
+          *   Continue having a SWELL day!
         content_align: left
         actions: []
         actions_align: left

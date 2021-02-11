@@ -39,7 +39,7 @@ sections:
         actions_align: left
         image: images/classic/icon-1.svg
         image_alt: Section item 1 icon
-        image_position: top
+        image_position: left
         image_align: left
         image_has_padding: true
       - title: High Security

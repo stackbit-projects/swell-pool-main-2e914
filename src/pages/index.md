@@ -136,7 +136,7 @@ sections:
 
           Once our pool is found, click to delegate and approve the transaction.
 
-          *   Enjoy consistent staking rewards.
+          *   Enjoy staking rewards.
           *   Continue having a SWELL day!
         content_align: left
         actions: []

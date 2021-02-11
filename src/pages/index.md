@@ -103,7 +103,7 @@ sections:
         image_has_padding: false
         type: grid_item
       - title: Step 2
-        subtitle: lorem-ipsum
+        subtitle: Pool
         title_align: left
         content: >-
           ## Lorem ipsum

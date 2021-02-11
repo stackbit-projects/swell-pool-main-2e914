@@ -76,7 +76,6 @@ sections:
     background_color: none
     has_border: false
   - title: How To Stake With Us
-    subtitle: lorem-ipsum
     actions: []
     grid_items: []
     grid_cols: three

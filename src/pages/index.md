@@ -162,22 +162,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-  - type: features_section
-    title: ''
-    subtitle: ''
-    features:
-      - title: How to Stake With Us
-        subtitle: Enjoy passive income with these easy steps.
-        content: ''
-        actions: []
-        image_alt: Feature 1 placeholder image
-        media_position: right
-        media_width: fifty
-        video_embed_html: ''
-        image: images/purple-kangaroo.gif
-    feature_padding_vert: large
-    align: center
-    background_color: secondary
   - type: grid_section
     title: Cardano Wallets
     subtitle: ''

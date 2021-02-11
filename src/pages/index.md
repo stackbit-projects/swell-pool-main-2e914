@@ -100,7 +100,7 @@ sections:
         image_has_padding: false
         type: grid_item
       - title: Step 2
-        subtitle: Pool
+        subtitle: Pool Search
         title_align: left
         content: >
           ## Find Our Pool

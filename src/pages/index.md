@@ -136,7 +136,7 @@ sections:
 
           Once our pool is found, click to delegate and approve the transaction.
 
-          *   Enjoy ~5% annual staking rewards.
+          *   Enjoy consistent staking rewards.
           *   Continue having a SWELL day!
         content_align: left
         actions: []

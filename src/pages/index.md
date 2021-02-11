@@ -227,7 +227,7 @@ sections:
       - title: About Your Pool Operator
         subtitle: ''
         image: images/about-4.jpg
-        image_alt: Brandon Guidelines
+        image_alt: Your SPO
         media_position: right
         media_width: thirty-three
         content: >

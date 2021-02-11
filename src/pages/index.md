@@ -265,5 +265,6 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: secondary
+    has_border: true
 template: advanced
 ---

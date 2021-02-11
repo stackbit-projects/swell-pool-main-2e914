@@ -78,7 +78,7 @@ sections:
   - title: How To Stake With Us
     actions: []
     grid_items:
-      - title: lorem-ipsum
+      - title: Step 1
         subtitle: lorem-ipsum
         title_align: left
         content: >-

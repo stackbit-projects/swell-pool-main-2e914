@@ -6,7 +6,8 @@ sections:
     subtitle: A Cardano Stake Pool
     content: >
       We are a mission driven pool dedicated to offering reliable staking
-      services with zero fees.
+      services with zero fees. We donate 10% of our monthly profits to various
+      charities.
     actions:
       - label: Pool Stats
         url: >-

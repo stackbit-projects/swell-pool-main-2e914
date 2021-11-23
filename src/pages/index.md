@@ -14,7 +14,8 @@ sections:
           https://adapools.org/pool/7ff2b54f311b6774e82cbf780c413e49e37b7501afd30f154918f7ca
         style: primary
       - label: Block Explorer
-        url: 'https://cardanoscan.io'
+        url: >-
+          https://pool.pm/7ff2b54f311b6774e82cbf780c413e49e37b7501afd30f154918f7ca
         style: secondary
     image: images/PikPng.com_cardano-png_4127617.png
     image_alt: Hero section placeholder image

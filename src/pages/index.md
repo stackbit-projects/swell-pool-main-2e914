@@ -5,8 +5,8 @@ sections:
     title: 'SWELL '
     subtitle: A Cardano Stake Pool
     content: >
-      Independently operated in USA. Dedicated to offering reliable staking
-      services at a low margin.
+      Independently operated in USA. We are a mission driven pool dedicated to
+      offering reliable staking services with zero fees.
     actions:
       - label: Pool Stats
         url: >-

@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'SWELL '
+    title: SWELL POOL
     subtitle: A Cardano Stake Pool
     content: >
       We are a mission driven pool dedicated to offering reliable staking

@@ -59,9 +59,7 @@ sections:
       - title: No Fees
         title_align: center
         content: |
-          We take take 0% margin which means more return for you. 
-
-          Its a Win/Win!
+          We take take 0% margin which means more return for you!
         content_align: left
         actions: []
         actions_align: left
